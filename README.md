@@ -7,6 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuna107&label=Profile%20views&color=0e75b6&style=flat" alt="zuna107" /> </p>
 
+<!-- Video player -->
+
+<div align="center">
+  <video src="https://zetsuna-homepage.vercel.app/assets/raiden.mp4" controls autoPlay loop muted width="60%">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 
 
 <p align="center">
@@ -70,5 +78,6 @@ Let's connect and create something amazing together!
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuna107&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="zuna107" /></p>
+
 
 
