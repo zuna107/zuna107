@@ -9,7 +9,7 @@
 
 <!-- GIF player -->
 <div align="center">
-  <img src="https://images-ext-1.discordapp.net/external/Dw5GPfCtGA67W-xcD7yFCo0dmhNQJJnhHz1ym87Bq1Q/https/pouch.jumpshare.com/preview/aZHRyLrGvdrSVwSglFwK-crkx1RqPle5Sg4gYNzTkvcsteAb0voV9cwXwSqz5wcB2qauhF1o7wa1wmdzxf_CnM15hLQbhxsXYoYNC2pisFU?format=webp&width=381&height=677" alt="Raiden Shogun" width="60%">
+  <img src="https://pouch.jumpshare.com/preview/aZHRyLrGvdrSVwSglFwK-crkx1RqPle5Sg4gYNzTkvcsteAb0voV9cwXwSqz5wcBHlliOtGwMBgO2QpnyxZh5PDvmd1NVmrFlgqWstge63s.gif" alt="Raiden Shogun" width="60%">
 </div>
 
 
