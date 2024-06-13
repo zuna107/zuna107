@@ -7,12 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuna107&label=Profile%20views&color=0e75b6&style=flat" alt="zuna107" /> </p>
 
-<!-- Video player -->
-
+<!-- GIF player -->
 <div align="center">
-  <video src="https://zetsuna-homepage.vercel.app/assets/raiden.mp4" controls autoPlay loop muted width="60%">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://s7.ezgif.com/tmp/ezgif-7-ad4fb59cb5.gif" alt="Raiden Shogun" width="60%">
 </div>
 
 
