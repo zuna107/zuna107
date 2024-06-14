@@ -9,7 +9,7 @@
 
 <!-- GIF player -->
 <div align="center">
-  <img src="https://i.imgur.com/Bss3esq.gif" alt="Raiden Shogun" width="60%">
+  <img src="https://i.imgur.com/Bss3esq.gif" alt="Raiden Shogun">
 </div>
 
 
