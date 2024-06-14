@@ -9,7 +9,7 @@
 
 <!-- GIF player -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zuna107/zuna107/main/raiden.gif" alt="Raiden Shogun" width="60%">
+  <img src="https://raw.githubusercontent.com/zuna107/zuna107/main/ezgif-7-ad4fb59cb5.gif" alt="Raiden Shogun" width="60%">
 </div>
 
 
