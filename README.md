@@ -7,8 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuna107&label=Profile%20views&color=0e75b6&style=flat" alt="zuna107" /> </p>
 
-![Raiden Shogun](https://i.imgur.com/Bss3esq.gif)
-
+<!-- GIF player -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zuna107/zuna107/main/raiden.gif" alt="Raiden Shogun" width="60%">
+</div>
 
 
 
