@@ -16,7 +16,7 @@
 
 <p align="center">
  <a href="https://zetsuna-homepage.vercel.app/" target="blank">
-  <img src="./ezgif-7-ad4fb59cb5.gif" alt="suna">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="suna">
  </a>
  
  <a href="https://discordapp.com/users/948093919835590666" target="_blank">
