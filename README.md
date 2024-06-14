@@ -7,16 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuna107&label=Profile%20views&color=0e75b6&style=flat" alt="zuna107" /> </p>
 
-<!-- GIF player -->
-<div align="center">
-  <img src="https://i.imgur.com/Bss3esq.gif" alt="Raiden Shogun" width="60%">
-</div>
+![Raiden Shogun](https://i.imgur.com/Bss3esq.gif)
+
 
 
 
 <p align="center">
  <a href="https://zetsuna-homepage.vercel.app/" target="blank">
-  <img src="https://i.imgur.com/Bss3esq.gif" alt="Raiden Shogun" width="60%">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="suna">
  </a>
  
  <a href="https://discordapp.com/users/948093919835590666" target="_blank">
