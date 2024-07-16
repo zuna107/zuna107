@@ -12,6 +12,8 @@ ___
   <img src="https://profile-counter.glitch.me/zuna107/count.svg" />
 </p>
 
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
 ___
 
 
@@ -31,10 +33,7 @@ ___
  </a>
 
 
-
-
-<h3 align="left">About me</h3>
-
+## About me🧹
 
 Hello! I am a bot app developer for Discord. My projects aim to improve user experience and provide innovative solutions for the community. Besides enjoying diving into code and developing bots, I am also a content creator for Genshin Impact and other HoYoverse games. You can often find me sharing tips, tricks, and interacting with the community on HoYoLAB. My love for gaming and development allows me to bring a unique perspective to both fields, making my projects functional and fun.
 
@@ -49,11 +48,6 @@ Hello! I am a bot app developer for Discord. My projects aim to improve user exp
 OHOHOHOHOO TRAVELER HAHAHA AH YES WOULD'NT GLIDING BE FASTER? 
 HAHAHAHAHAHAAHAH- BONJOUR YOU 💣
 ```
-
-___
-
-
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 
 ___
@@ -76,11 +70,22 @@ ___
 ___
 
 
-<div align="center">
-
-## Use To Code
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dellyaoktavani&theme=tokyonight" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dellyaoktavani&theme=tokyonight" />
 
 
-</div>
+## Use To Code⚔
+I mostly use **JavaScript** in bot development by using **Node.js** to run JavaScript on the server.
+For others such as **React.js** etc. I use it for web-based development, such as dashboards and more. <br>
+[![Code](https://skillicons.dev/icons?i=js,html,css,express,nextjs,nodejs,react,tailwind,ts,)](https://skillicons.dev)
+
+## Tools 🛠
+I use a variety of tools, from programming to design. In addition to programming I also like design so I use **Photoshop**, **Figma** or **Illustrator** for this, while in terms of programming I use more software such as **VsCode** and so on. <br>
+[![Tools](https://skillicons.dev/icons?i=docker,figma,git,github,ai,mongodb,mysql,vercel,ps,postman,vscode,discord)](https://skillicons.dev)
+
+
+## Devices 📺
+I use various types of devices such as **Linux** and **Windows**, it seems that there are many things that can be used on Linux but I still use it only for Servers and Cloud / NAS, different from Windows, it can't do that and I only focus on doing things like design or playing games. <br>
+[![Devices](https://skillicons.dev/icons?i=linux,ubuntu,windows,debian)](https://skillicons.dev)
+
+## Library and other 📚
+
+[![Library](https://skillicons.dev/icons?i=vite,npm,discordjs,bots,)](https://skillicons.dev)
