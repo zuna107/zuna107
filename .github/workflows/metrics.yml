@@ -22,7 +22,7 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.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 }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: zuna107
