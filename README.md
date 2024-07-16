@@ -3,14 +3,16 @@
                 <b><a target="_blank" href="https://zetsuna-homepage.vercel.app/">suna</a></b>
         </samp>
 </h3>
-<h3 align="center">I'm a Bot App Developer for Discord and Guide Content Creator for Genshin Impact.</h3>
+<h4 align="center">I'm a Bot App Developer for Discord and Guide Content Creator for Genshin Impact.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zuna107&label=Profile%20views&color=0e75b6&style=flat" alt="zuna107" /> </p>
 
-<!-- GIF player -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zuna107/zuna107/main/ezgif-7-ad4fb59cb5.gif" alt="Raiden Shogun" width="30%">
-</div>
+___
+<p align="center"> 
+  Profile views<br>
+  <img src="https://profile-counter.glitch.me/zuna107/count.svg" />
+</p>
+
+___
 
 
 
@@ -24,7 +26,7 @@
  </a>
 
 
- <a href="https://discordapp.com/users/948093919835590666" target="_blank">
+ <a href="https://github.com/zuna107/Linux-Server-Doc" target="_blank">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="suna"/>
  </a>
 
@@ -33,14 +35,28 @@
 
 <h3 align="left">About me</h3>
 
-Hello! I'm a passionate developer specializing in creating sophisticated bot applications for Discord. My projects aim to enhance the user experience and provide innovative solutions for the community. While I enjoy diving into code and developing bots, I'm also a content creator for Genshin Impact and other HoYoverse games. You can often find me sharing tips, tricks, and engaging with the community on HoYoLAB. My dual passion for gaming and development allows me to bring a unique perspective to both fields, making my projects both functional and fun.
 
-- 🚀 Experienced in **Discord Bot Development**
+Hello! I am a bot app developer for Discord. My projects aim to improve user experience and provide innovative solutions for the community. Besides enjoying diving into code and developing bots, I am also a content creator for Genshin Impact and other HoYoverse games. You can often find me sharing tips, tricks, and interacting with the community on HoYoLAB. My love for gaming and development allows me to bring a unique perspective to both fields, making my projects functional and fun.
+
+
+
+- 🚀 Frequent **Discord Bot Development**
 - 🎮 Content Creator for **Genshin Impact** and other **HoYoverse Games**
 - 🌟 Active contributor on **HoYoLAB**
-- ⚔ Community Moderator
+- ⚔ **Genshin Impact** Community Moderator
 
-Let's connect and create something amazing together!
+```
+OHOHOHOHOO TRAVELER HAHAHA AH YES WOULD'NT GLIDING BE FASTER? 
+HAHAHAHAHAHAAHAHAHAHHAHAHAHAHAHAHAHAHAHAHHHAHAH- BONJOUR YOU 💣
+```
+
+___
+
+
+![Metrics](https://metrics.lecoq.io/zuna107?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FJakarta)
+
+
+
 
 
 
@@ -75,6 +91,3 @@ Let's connect and create something amazing together!
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuna107&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="zuna107" /></p>
-
-
-
