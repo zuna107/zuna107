@@ -47,7 +47,7 @@ Hello! I am a bot app developer for Discord. My projects aim to improve user exp
 
 ```
 OHOHOHOHOO TRAVELER HAHAHA AH YES WOULD'NT GLIDING BE FASTER? 
-HAHAHAHAHAHAAHAHAHAHHAHAHAHAHAHAHAHAHAHAHHHAHAH- BONJOUR YOU 💣
+HAHAHAHAHAHAAHAH- BONJOUR YOU 💣
 ```
 
 ___
@@ -56,38 +56,31 @@ ___
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 
+___
 
 
 
+<div align="center">
+
+## GitHub All Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=zuna107&theme=tokyonight&hide_border=true)<br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuna107&theme=tokyonight)
+
+
+<img src="https://myreadme.vercel.app/api/embed/zuna107?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+</div>
+
+___
+
+
+<div align="center">
 
 ## Use To Code
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dellyaoktavani&theme=tokyonight" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dellyaoktavani&theme=tokyonight" />
 
 
-## Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zuna107&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="suna Github Stats" width="60%">
-  </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuna107&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="zuna107" /></p>
+</div>
