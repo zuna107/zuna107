@@ -27,7 +27,7 @@ jobs:
           # Options
           user: zuna107
           template: classic
-          base: header, activity, repositories, metadata
+          base: header, activity,community, repositories, metadata
           config_timezone: Asia/Jakarta
           plugin_achievements: yes
           plugin_achievements_display: detailed
