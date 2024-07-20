@@ -35,7 +35,7 @@ ___
 
 ## About me🧹
 
-Hello! I am a bot app developer for Discord. My projects aim to improve user experience and provide innovative solutions for the community. Besides enjoying diving into code and developing bots, I am also a content creator for Genshin Impact and other HoYoverse games. You can often find me sharing tips, tricks, and interacting with the community on HoYoLAB. My love for gaming and development allows me to bring a unique perspective to both fields, making my projects functional and fun.
+Hello! I am a bot app developer for Discord. My project aims to improve user experience and provide innovative solutions for the community. Besides enjoying diving into code and developing bots, I am also a content creator for Genshin Impact and other HoYoverse games. You can often find me sharing tips, tricks, and interacting with the community on HoYoLAB.
 
 
 
