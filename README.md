@@ -63,8 +63,6 @@ ___
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuna107&theme=tokyonight)
 
 
-<img src="https://myreadme.vercel.app/api/embed/zuna107?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 </div>
 
 ___
