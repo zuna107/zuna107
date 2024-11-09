@@ -5,13 +5,10 @@
 </h3>
 <h4 align="center">I'm a Bot App Developer for Discord and Guide Content Creator for Genshin Impact.</h4>
 
-
-___
 <p align="center"> 
   Profile views<br>
   <img src="https://profile-counter.glitch.me/zuna107/count.svg" />
 </p>
-___
 
 
 
