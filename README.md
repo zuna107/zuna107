@@ -53,7 +53,7 @@ ___
 
 ## GitHub All Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuna107&theme=tokyonight&exclude_repo=github-readme-stats,zuna107.github.io)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zuna107&theme=tokyonight&hide_border=true)<br/>
 
