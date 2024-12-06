@@ -8,7 +8,7 @@
     
 <div align="center">
         <img alt="Visitor Stats" 
-                src="https://widgetbite.com/stats/<github-zuna107>"/>  
+                src="https://widgetbite.com/stats/zuna107"/>  
 </div>
 
 
