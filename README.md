@@ -5,10 +5,10 @@
 </h3>
 <h4 align="center">I'm a Bot App Developer for Discord and Guide Content Creator for Genshin Impact.</h4>
 
-<p align="center"> 
-  Profile views<br>
-  <img src="https://profile-counter.glitch.me/zuna107/count.svg" />
-</p>
+    <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<github-zuna107>"/>  
+    </div>
 
 
 
@@ -58,7 +58,6 @@ ___
 
 ![zuna107 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=zuna107)
 
-![zuna107 github-trophies](https://stats.dooboo.io/api/github-trophies?login=zuna107)
 </div>
 
 ___
