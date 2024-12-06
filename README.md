@@ -39,10 +39,8 @@ Hello! I'm a bot app developer for Discord. I want to make the user experience b
 - 🌟 Active contributor on **HoYoLAB**
 - ⚔ **Genshin Impact** Community Moderator
 
-```
-OHOHOHOHOO TRAVELER HAHAHA AH YES WOULD'NT GLIDING BE FASTER? 
-HAHAHAHAHAHAAHAH- BONJOUR YOU 💣
-```
+<p align='center'><img width="96px" src="https://cdn.jsdelivr.net/gh/daidr/paimon-webext@main/assets/icon-128.png" alt="Paimon">
+</p>
 
 
 ___
@@ -55,13 +53,9 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuna107&theme=tokyonight&layout=compact)
 
-![s](https://raw.githubusercontent.com/zuna107/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zuna107&theme=tokyonight&hide_border=true)<br/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuna107&theme=tokyonight)
-
-![zuna107 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=zuna107)
 
 
 </div>
