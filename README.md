@@ -57,6 +57,8 @@ ___
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuna107&theme=tokyonight)
 
 ![zuna107 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=zuna107)
+
+![zuna107 github-trophies](https://stats.dooboo.io/api/github-trophies?login=zuna107)
 </div>
 
 ___
