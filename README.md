@@ -4,7 +4,6 @@
         </samp>
 </h3>
 <h4 align="center">I'm a Bot App Developer for Discord and Guide Content Creator for Genshin Impact.</h4>
-
     <div align="center">
         <img alt="Visitor Stats" 
             src="https://widgetbite.com/stats/<github-zuna107>"/>  
