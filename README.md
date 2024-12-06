@@ -92,6 +92,8 @@ ____
 ### Spotify Now Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nferd59zep8i18t845z0cyiw4&cover_image=true&theme=default&show_offline=false&background_color=105589&interchange=true&bar_color=2785dd&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=nferd59zep8i18t845z0cyiw4&redirect=true)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nferd59zep8i18t845z0cyiw4)
+
   <table>
     <tr>
       <td>
