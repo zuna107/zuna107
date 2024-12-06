@@ -10,7 +10,6 @@
         <img alt="Visitor Stats" 
                 src="https://widgetbite.com/stats/zuna107"/>  
 </div>
-[![zetsuna profile views](https://u8views.com/api/v1/github/profiles/112685109/views/day-week-month-total-count.svg)](https://u8views.com/github/zuna107)
 
 
 
@@ -59,6 +58,8 @@ ___
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuna107&theme=tokyonight)
 
 ![zuna107 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=zuna107)
+
+[![zetsuna profile views](https://u8views.com/api/v1/github/profiles/112685109/views/day-week-month-total-count.svg)](https://u8views.com/github/zuna107)
 
 </div>
 
