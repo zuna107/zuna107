@@ -91,8 +91,10 @@ ____
 
 ### Other Activity
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/948093919835590666?theme=dark)](https://discord.com/users/948093919835590666)
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nferd59zep8i18t845z0cyiw4)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nferd59zep8i18t845z0cyiw4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=nferd59zep8i18t845z0cyiw4&redirect=true)
 
-[![Discord Presence](https://lanyard-visualizer.netlify.app/948093919835590666)](https://discord.com/users/:948093919835590666)
+
 
