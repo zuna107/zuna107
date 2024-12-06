@@ -91,3 +91,14 @@ ____
 
 ### Spotify Now Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nferd59zep8i18t845z0cyiw4&cover_image=true&theme=default&show_offline=false&background_color=105589&interchange=true&bar_color=2785dd&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=nferd59zep8i18t845z0cyiw4&redirect=true)
+
+  <table>
+    <tr>
+      <td>
+        ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nferd59zep8i18t845z0cyiw4&count=5)
+      </td>
+      <td>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31hah4yq6es2tjearprp6ir2bmhi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
+      </td>
+    </tr>
+  </table>
