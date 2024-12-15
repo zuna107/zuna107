@@ -77,7 +77,7 @@ I use a variety of tools, from programming to design. In addition to programming
 
 ## Devices 📺
 I use various types of devices such as **Linux** and **Windows**, it seems that there are many things that can be used on Linux but I still use it only for Servers and Cloud / NAS, different from Windows, it can't do that and I only focus on doing things like design or playing games. <br>
-[![Devices](https://skillicons.dev/icons?i=linux,ubuntu,windows,debian,kali)](https://skillicons.dev)
+[![Devices](https://skillicons.dev/icons?i=linux,windows,debian,kali)](https://skillicons.dev)
 
 ## Library and other 📚
 
