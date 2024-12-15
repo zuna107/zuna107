@@ -68,21 +68,21 @@ ___
 ## Use To Code⚔
 I mostly use **JavaScript** in bot development by using **Node.js** to run JavaScript on the server.
 For others such as **React.js** etc. I use it for web-based development, such as dashboards and more. <br>
-[![Code](https://skillicons.dev/icons?i=js,html,css,express,nodejs,react,tailwind,ts,)](https://skillicons.dev)
+[![Code](https://skillicons.dev/icons?i=js,html,css,tailwind,ts,py,cpp)](https://skillicons.dev)
 
 ## Tools 🛠
 I use a variety of tools, from programming to design. In addition to programming I also like design so I use **Photoshop**, **Figma** or **Illustrator** for this, while in terms of programming I use more software such as **VsCode** and so on. <br>
-[![Tools](https://skillicons.dev/icons?i=docker,figma,git,github,ai,mongodb,mysql,vercel,ps,postman,vscode,discord)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=figma,git,github,ai,mongodb,postman,vercel,ps,postman,vscode,discord,gcp,bash)](https://skillicons.dev)
 
 
 ## Devices 📺
 I use various types of devices such as **Linux** and **Windows**, it seems that there are many things that can be used on Linux but I still use it only for Servers and Cloud / NAS, different from Windows, it can't do that and I only focus on doing things like design or playing games. <br>
 [![Devices](https://skillicons.dev/icons?i=linux,windows,debian,kali)](https://skillicons.dev)
 
-## Library and other 📚
+## Library, Framework and other 📚
 
-[![Library](https://skillicons.dev/icons?i=vite,npm,discordjs,bots,)](https://skillicons.dev)
-
+[![Library](https://skillicons.dev/icons?i=vite,express,nodejs,react)](https://skillicons.dev)
+[![Library](https://skillicons.dev/icons?i=npm,discordjs,bots,)](https://skillicons.dev)
 
 ____
 
