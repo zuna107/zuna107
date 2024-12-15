@@ -72,7 +72,7 @@ For others such as **React.js** etc. I use it for web-based development, such as
 
 ## Tools 🛠
 I use a variety of tools, from programming to design. In addition to programming I also like design so I use **Photoshop**, **Figma** or **Illustrator** for this, while in terms of programming I use more software such as **VsCode** and so on. <br>
-[![Tools](https://skillicons.dev/icons?i=figma,git,github,ai,mongodb,postman,vercel,ps,postman,vscode,discord,gcp,bash)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=figma,git,github,ai,mongodb,postman,vercel,ps,vscode,discord,gcp,bash)](https://skillicons.dev)
 
 
 ## Devices 📺
