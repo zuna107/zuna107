@@ -65,7 +65,7 @@ ___
 
 
 
-## Use To Code⚔
+## Tech Stack⚔
 I mostly use **JavaScript** in bot development by using **Node.js** to run JavaScript on the server.
 For others such as **React.js** etc. I use it for web-based development, such as dashboards and more. <br>
 [![Code](https://skillicons.dev/icons?i=js,html,css,ts,py,cpp)](https://skillicons.dev)
