@@ -53,7 +53,7 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuna107&theme=tokyonight&layout=compact)
 
-![s](https://github-readme-streak-stats.herokuapp.com/?user=zuna107&theme=tokyonight&hide_border=true)<br/>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=zuna107&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)<br/>
 
 ![sa](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuna107&theme=tokyonight)
 
