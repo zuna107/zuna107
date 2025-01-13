@@ -53,9 +53,9 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuna107&theme=tokyonight&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=zuna107&theme=tokyonight&hide_border=true)<br/>
+![s](https://github-readme-streak-stats.herokuapp.com/?user=zuna107&theme=tokyonight&hide_border=true)<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuna107&theme=tokyonight)
+![sa](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuna107&theme=tokyonight)
 
 
 </div>
