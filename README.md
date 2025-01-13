@@ -51,7 +51,7 @@ ___
 
 ## GitHub All Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuna107&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuna107&theme=github-dark-blue&layout=compact)
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=zuna107&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)<br/>
 
