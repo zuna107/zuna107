@@ -5,7 +5,6 @@
 </h3>
 <h4 align="center">I'm a Bot App Developer for Discord and Guide Content Creator for Genshin Impact.</h4>
 
-<div align="center">
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zuna107&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/zuna107/github-widgetbox)
 
 
