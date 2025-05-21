@@ -5,6 +5,12 @@
 </h3>
 <h4 align="center">I'm a Bot App Developer for Discord and Guide Content Creator for Genshin Impact.</h4>
 
+  
+<p align="center">
+  <a href="https://github.com/zuna107/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=zuna107&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox">
+  </a>
+</p>
 
 
 <p align="center">
@@ -21,7 +27,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="suna"/>
  </a>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zuna107&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/zuna107/github-widgetbox)
 
 ## About me🧹
 
@@ -38,23 +43,35 @@ Hello! I'm a bot app developer for Discord. I want to make the user experience b
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuna107&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuna107&theme=discord_old_blurple&utcOffset=7)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuna107&theme=discord_old_blurple" alt="GitHub Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuna107&theme=discord_old_blurple&utcOffset=7" alt="Productive Time">
+</p>
+
 
 ___
 
 
 
-<div align="center">
+
 
 ## GitHub All Stats
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=zuna107&theme=discord-old-blurple" alt="GitHub Streak">
+  </a>
+</p>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=zuna107&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuna107&theme=discord_old_blurple)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuna107&theme=discord_old_blurple" alt="Profile Details">
+</p>
 
-![zuna107 github-stats](https://stats.dooboo.io/api/github-stats?login=zuna107)
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-stats?login=zuna107" alt="Dooboo GitHub Stats">
+</p>
+
 ___
 
 
