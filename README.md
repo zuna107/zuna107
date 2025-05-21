@@ -6,10 +6,7 @@
 <h4 align="center">I'm a Bot App Developer for Discord and Guide Content Creator for Genshin Impact.</h4>
 
     
-<div align="center">
-        <img alt="Visitor Stats" 
-                src="https://widgetbite.com/stats/zuna107"/>  
-</div>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zuna107&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/zuna107/github-widgetbox)
 
 
 
@@ -43,6 +40,9 @@ Hello! I'm a bot app developer for Discord. I want to make the user experience b
 </p>
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuna107&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuna107&theme=discord_old_blurple&utcOffset=7)
+
 ___
 
 
@@ -51,14 +51,12 @@ ___
 
 ## GitHub All Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuna107&theme=tokyonight&layout=compact)
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=zuna107&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuna107&theme=discord_old_blurple)
+
 ![zuna107 github-stats](https://stats.dooboo.io/api/github-stats?login=zuna107)
-
-![sa](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuna107&theme=tokyonight)
-
 ___
 
 
