@@ -53,12 +53,11 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuna107&theme=tokyonight&layout=compact)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=zuna107&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=zuna107&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
+
+![zuna107 github-stats](https://stats.dooboo.io/api/github-stats?login=zuna107)
 
 ![sa](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuna107&theme=tokyonight)
-
-
-</div>
 
 ___
 
@@ -72,7 +71,7 @@ For others such as **React.js** etc. I use it for web-based development, such as
 
 ## Tools 🛠
 I use a variety of tools, from programming to design. In addition to programming I also like design so I use **Photoshop**, **Figma** or **Illustrator** for this, while in terms of programming I use more software such as **VsCode** and so on. <br>
-[![Tools](https://skillicons.dev/icons?i=figma,git,github,ai,mongodb,postman,vercel,ps,vscode,discord,gcp,bash)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=figma,git,github,ai,mongodb,postman,vercel,ps,vscode,gcp,arduino,mysql&perline=6)](https://skillicons.dev)
 
 
 ## Devices 📺
@@ -81,8 +80,7 @@ I use various types of devices such as **Linux** and **Windows**, it seems that 
 
 ## Library, Framework and other 📚
 
-[![Library](https://skillicons.dev/icons?i=vite,tailwind,nextjs,express,nodejs,react)](https://skillicons.dev)
-[![Library](https://skillicons.dev/icons?i=npm,discordjs,bots,)](https://skillicons.dev)
+[![Library](https://skillicons.dev/icons?i=vite,tailwind,nextjs,express,nodejs,react,npm,discordjs&perline=6)](https://skillicons.dev)
 
 ____
 
