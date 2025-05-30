@@ -43,16 +43,7 @@ Hello! I'm a bot app developer for Discord. I want to make the user experience b
 </p>
 
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuna107&theme=discord_old_blurple" alt="GitHub Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuna107&theme=discord_old_blurple&utcOffset=7" alt="Productive Time">
-</p>
-
-
 ___
-
-
-
 
 
 ## GitHub All Stats
@@ -67,6 +58,12 @@ ___
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuna107&theme=discord_old_blurple" alt="Profile Details">
 </p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuna107&theme=discord_old_blurple" alt="GitHub Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuna107&theme=discord_old_blurple&utcOffset=7" alt="Productive Time">
+</p>
+
 
 ___
 
