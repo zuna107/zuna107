@@ -68,10 +68,6 @@ ___
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuna107&theme=discord_old_blurple" alt="Profile Details">
 </p>
 
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?login=zuna107" alt="Dooboo GitHub Stats">
-</p>
-
 ___
 
 
