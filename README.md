@@ -68,23 +68,25 @@ ___
 
 
 
-## Use to Code⚔
-I mostly use **JavaScript** in bot development by using **Node.js** to run JavaScript on the server.
-For others such as **React.js** etc. I use it for web-based development, such as dashboards and more. <br>
-[![Code](https://skillicons.dev/icons?i=js,html,css,ts,py,)](https://skillicons.dev)
+## Languages 💻
+I mostly use **JavaScript** for bot development by using **Node.js** to run JavaScript on the server.
+For others like **React.js** etc., I use them for web-based development, such as dashboards and more. <br>
+[![Languages](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
+
+## Frameworks & Libraries 📚
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,express,fastapi,discordjs&perline=7)](https://skillicons.dev)
 
 ## Tools 🛠
-I use a variety of tools, from programming to design. In addition to programming I also like design so I use **Photoshop**, **Figma** or **Illustrator** for this, while in terms of programming I use more software such as **VsCode** and so on. <br>
-[![Tools](https://skillicons.dev/icons?i=figma,git,github,ai,mongodb,postman,vercel,ps,vscode,gcp,arduino,mysql&perline=6)](https://skillicons.dev)
+I use a variety of tools, from programming to design. Besides programming, I also enjoy design so I use **Photoshop**, **Figma** or **Illustrator** for this, while for programming I mainly use software like **VsCode** and more. <br>
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,docker,nginx,postman,vercel,cloudflare,gcp,figma,ps,ai&perline=6)](https://skillicons.dev)
 
+## Databases & Runtime 🗄️
+[![Database](https://skillicons.dev/icons?i=mongodb,mysql,nodejs,bun)](https://skillicons.dev)
 
-## Devices 📺
-I use various types of devices such as **Linux** and **Windows**, it seems that there are many things that can be used on Linux but I still use it only for Servers and Cloud / NAS, different from Windows, it can't do that and I only focus on doing things like design or playing games. <br>
-[![Devices](https://skillicons.dev/icons?i=linux,windows,debian,kali)](https://skillicons.dev)
+## Operating Systems 📺
+I use various types of devices such as **Linux** and **Windows**. Linux is used for Servers and Cloud/NAS, while Windows is used for design or gaming. <br>
+[![OS](https://skillicons.dev/icons?i=linux,windows,debian,kali)](https://skillicons.dev)
 
-## Library, Framework and other 📚
-
-[![Library](https://skillicons.dev/icons?i=vite,tailwind,nextjs,express,nodejs,react,npm,discordjs&perline=6)](https://skillicons.dev)
 
 ____
 
