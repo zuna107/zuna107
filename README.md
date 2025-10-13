@@ -71,7 +71,7 @@ ___
 ## Use to Code⚔
 I mostly use **JavaScript** in bot development by using **Node.js** to run JavaScript on the server.
 For others such as **React.js** etc. I use it for web-based development, such as dashboards and more. <br>
-[![Code](https://skillicons.dev/icons?i=js,html,css,ts,py,cpp)](https://skillicons.dev)
+[![Code](https://skillicons.dev/icons?i=js,html,css,ts,py,)](https://skillicons.dev)
 
 ## Tools 🛠
 I use a variety of tools, from programming to design. In addition to programming I also like design so I use **Photoshop**, **Figma** or **Illustrator** for this, while in terms of programming I use more software such as **VsCode** and so on. <br>
