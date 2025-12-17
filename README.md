@@ -58,29 +58,4 @@ I'm a **Bot App Developer** for Discord. I want to make the user experience bett
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuna107&theme=discord_old_blurple&utcOffset=7">
 </p>
 
----
-
-## Technical Skills
-
-### Languages
-Primarily using JavaScript with Node.js for Discord bot development.  
-Also experienced with React-based technologies for web dashboards and related tools.
-
-[![Languages](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
-
-### Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,express,fastapi,discordjs&perline=7)](https://skillicons.dev)
-
-### Tools
-Experienced with both development and design tools, including UI/UX and server-related workflows.
-
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github,docker,nginx,postman,vercel,cloudflare,gcp,figma,ps,ai&perline=6)](https://skillicons.dev)
-
-### Databases & Runtime
-[![Database](https://skillicons.dev/icons?i=mongodb,mysql,nodejs,bun)](https://skillicons.dev)
-
-### Operating Systems
-Linux is primarily used for servers and cloud environments, while Windows is used for development, design, and gaming.
-
-[![OS](https://skillicons.dev/icons?i=linux,windows,debian,kali)](https://skillicons.dev)
 
