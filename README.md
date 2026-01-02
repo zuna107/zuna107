@@ -44,9 +44,8 @@ I'm a **Bot App Developer** for Discord. I want to make the user experience bett
 ## GitHub Statistics
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=zuna107&theme=discord-old-blurple&hide_border=true&mode=weekly" alt="GitHub Streak">
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuna107&theme=discord_old_blurple">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuna107&theme=discord_old_blurple&utcOffset=7">
 </p>
 
 <p align="center">
@@ -54,8 +53,9 @@ I'm a **Bot App Developer** for Discord. I want to make the user experience bett
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuna107&theme=discord_old_blurple">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuna107&theme=discord_old_blurple&utcOffset=7">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=zuna107&theme=discord-old-blurple&hide_border=true&mode=weekly" alt="GitHub Streak">
+  </a>
 </p>
 
 
