@@ -33,7 +33,7 @@ I'm a **Bot App Developer** for Discord. I want to make the user experience bett
 - Frequent **Discord Bot Development**
 - Content Creator for **Genshin Impact** and other **HoYoverse Games**
 - Active contributor on **HoYoLAB**
-- **Genshin Impact** Community Moderator
+- Community Operations
 
 <p align="center">
   <img width="96px" src="https://cdn.jsdelivr.net/gh/daidr/paimon-webext@main/assets/icon-128.png" alt="Paimon">
