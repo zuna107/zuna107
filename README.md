@@ -28,7 +28,7 @@
 
 ---
 
-I'm a **Bot App Developer** for Discord. I want to make the user experience better and find new solutions for the community. I also create content for Genshin Impact and other HoYoverse games. You can find me sharing tips and interacting with the community on HoYoLAB.
+I'm a **Bot App Developer** on Discord. I want to make the user experience better and find new solutions for the community. I also create content for Genshin Impact and other HoYoverse games. You can find me sharing tips and interacting with the community on HoYoLAB.
 
 - Frequent **Discord Bot Development**
 - Content Creator for **Genshin Impact** and other **HoYoverse Games**
