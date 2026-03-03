@@ -25,25 +25,27 @@ I'm a **Bot App Developer** on Discord. I want to make the user experience bette
 
 <h4 align="center">
   Find me on:
-  <br><br>
-  
-  <a href="https://discordapp.com/users/948093919835590666" target="_blank">
+</h4>
+
+<p align="center">
+
+  <a href="https://discordapp.com/users/948093919835590666">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   
-  <a href="https://www.hoyolab.com/accountCenter/postList?id=107593323" target="_blank">
+  <a href="https://www.hoyolab.com/accountCenter/postList?id=107593323">
     <img src="https://img.shields.io/badge/HoYoLAB-4EA4F3?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
-  
+
   <br>
 
-<a href="https://discord.gg/hoyoseafandom" target="_blank">
-  <img src="https://img.shields.io/badge/HoYo%20•%20SEA%20Fandom-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-<a href="https://discord.gg/hoyoseafandom" target="_blank">
-  <img src="https://img.shields.io/discord/1085346958459273229?label=Members&logo=discord&style=for-the-badge&labelColor=2C2F33&color=5865F2">
-</a>
+  <a href="https://discord.gg/hoyoseafandom">
+    <img src="https://img.shields.io/badge/HoYo%20•%20SEA%20Fandom-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 
+  <a href="https://discord.gg/hoyoseafandom">
+    <img src="https://img.shields.io/discord/1085346958459273229?label=Members&logo=discord&style=for-the-badge&labelColor=2C2F33&color=5865F2">
+  </a>
 
 </p>
 
