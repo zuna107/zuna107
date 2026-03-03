@@ -35,9 +35,15 @@ I'm a **Bot App Developer** on Discord. I want to make the user experience bette
     <img src="https://img.shields.io/badge/HoYoLAB-4EA4F3?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
   
-  <a href="https://discord.gg/hoyoseafandom" target="_blank">
-    <img src="https://img.shields.io/discord/1085346958459273229?label=HoYo%20•%20SEA%20Fandom&logo=discord&style=for-the-badge&labelColor=2C2F33&color=5865F2">
-  </a>
+  <br>
+
+<a href="https://discord.gg/hoyoseafandom" target="_blank">
+  <img src="https://img.shields.io/badge/HoYo%20•%20SEA%20Fandom-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+<a href="https://discord.gg/hoyoseafandom" target="_blank">
+  <img src="https://img.shields.io/discord/1085346958459273229?label=Members&logo=discord&style=for-the-badge&labelColor=2C2F33&color=5865F2">
+</a>
+
 
 </p>
 
