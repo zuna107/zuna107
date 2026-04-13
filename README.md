@@ -56,7 +56,7 @@ I regularly use these tools to build, implement, and manage projects — from cl
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,gcp,github,git,githubactions,npm,postman,vscode,arduino,figma" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,gcp,github,git,githubactions,npm,postman,vscode,arduino,figma,docker,redis,androidstudio,mongodb" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@ These are the core technologies I use for building web apps, bots, and various d
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,discordjs,react,vite,express,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,discordjs,react,vite,express,mysql,svelte,kotlin,flutter,fastapi" />
   </a>
 </p>
 
