@@ -52,7 +52,7 @@ I'm a **Bot App Developer** on Discord. I want to make the user experience bette
 
 <br>
 
-I regularly use these tools to build, implement, and manage projects — from cloud infrastructure and version control to databases and development environments.
+I regularly use these tools to build, implement, and manage projects - from cloud infrastructure and version control to databases and development environments.
 
 <p align="center">
   <a href="https://skillicons.dev">
